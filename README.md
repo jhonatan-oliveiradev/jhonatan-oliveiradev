@@ -1,6 +1,6 @@
 ## Hi! I'm Jhonatan Oliveira! I'm a Front-End developer and a student of Systems Analysis and Development.
 
-<div align="center">
+<div align="center"> 
   <a href="https://github.com/JhoNBaratheoN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhoNBaratheoN&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoNBaratheoN&layout=compact&langs_count=7&theme=synthwave"/>
@@ -29,4 +29,4 @@
  
   ![Snake animation](https://github.com/JhoNBaratheoN/JhoNBaratheoN/blob/output/github-contribution-grid-snake.svg)
  
-</div> 
+</div>
