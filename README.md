@@ -26,7 +26,7 @@
  <a href="https://discord.gg/w3Wgt9xw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jhonatan.oliveira931002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonatan-oliveira1693" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://codepen.io/jhonbaratheon"><img src="https://findicons.com/files/icons/2773/pictonic_free/256/codepen_02.png" target="_blank"></a>
+  <a href = "https://codepen.io/jhonbaratheon"><img style= "text-decotarion: none;" src="" target="_blank">my codepen.io</a>
   
  
   ![Snake animation](https://github.com/jhonatan-oliveiradev/jhonatan-oliveiradev/blob/output/github-contribution-grid-snake.svg)
