@@ -48,7 +48,7 @@
 <details> 
 <summary> <h4>⭐ Click here to view some of my projects! ⭐</h4></summary>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jhonatan-oliveiradev/moviepedia">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhonatan-oliveiradev&repo=moviepedia&theme=react&bg_color=0D1117" alt="moviepedia"></a>
   <a href="https://github.com/jhonatan-oliveiradev/italian-restaurant">
@@ -57,9 +57,9 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhonatan-oliveiradev&repo=my-repos&theme=react&bg_color=0D1117" alt="my repos"></a>
   <a href="https://github.com/jhonatan-oliveiradev/food-commerce">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhonatan-oliveiradev&repo=food-commerce&theme=react&bg_color=0D1117" alt="food commerce"></a> 
-</p>
+</p> -->
 <br />  
-<p align="center"><a href="https://github.com/jhonatan-oliveiradev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a></p> 
+<p align="center"><a href="https://github.com/jhonatan-oliveiradev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-MY%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a></p>
 </details>
 
 
