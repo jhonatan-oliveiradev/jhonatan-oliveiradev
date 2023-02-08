@@ -1,4 +1,4 @@
-### <p align="center">Hey! I'm <a href="https://www.linkedin.com/in/adriwco">Jhonatan</a>. I'm a Front-End developer!
+### <p align="center">Hey! I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>. I'm a Front-End developer!
  <p align="center"><a href="https://github.com/jhonatan-oliveiradev"><img href="https://github.com/jhonatan-oliveiradev" src="https://komarev.com/ghpvc/?username=jhonatan-oliveiradev&color=blueviolet" alt="Profile views"/></a></p></p>
 
 <a href="https://github.com/jhonatan-oliveiradev"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></a>
