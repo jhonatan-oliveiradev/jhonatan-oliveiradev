@@ -20,7 +20,7 @@
 [![LinkedIn](https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg)](https://www.linkedin.com/in/jhonatan-oliveira1693)
 [![Facebook](https://user-images.githubusercontent.com/80191040/185791012-9037acf0-7812-4574-9862-fd9544489f6b.svg)](https://www.facebook.com/eujhonatanoliveira) 
 [![Telegram](https://user-images.githubusercontent.com/80191040/185791041-c0a284f7-73d6-4b18-bfc9-da2eed81f0da.svg)](https://t.me/jhonatanoliveira93)
-[![WhatsApp](https://user-images.githubusercontent.com/80191040/185155424-a5d28c8e-0c0a-4168-8931-fc597f64fe8a.svg)](https://wa.me/+5516996033206) 
+[![WhatsApp](https://user-images.githubusercontent.com/80191040/185155424-a5d28c8e-0c0a-4168-8931-fc597f64fe8a.svg)](https://wa.me/+5516996033206)
 
 </div>
 
