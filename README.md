@@ -1,7 +1,4 @@
 ### <p align="center">Hey! I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>. I'm a Front-End developer!
- <p align="center"><a href="https://github.com/jhonatan-oliveiradev"><img href="https://github.com/jhonatan-oliveiradev" src="https://komarev.com/ghpvc/?username=jhonatan-oliveiradev&color=blueviolet" alt="Profile views"/></a></p></p>
-
-<a href="https://github.com/jhonatan-oliveiradev"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></a>
 
 ****
 
@@ -45,24 +42,6 @@
 
 ****
 
-<details> 
-<summary> <h4>⭐ Click here to view some of my projects! ⭐</h4></summary>
-
-<!-- <p align="center">
-  <a href="https://github.com/jhonatan-oliveiradev/moviepedia">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhonatan-oliveiradev&repo=moviepedia&theme=react&bg_color=0D1117" alt="moviepedia"></a>
-  <a href="https://github.com/jhonatan-oliveiradev/italian-restaurant">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhonatan-oliveiradev&repo=italian-restaurant&theme=react&bg_color=0D1117" alt="italian restaurant"></a>
-  <a href="https://github.com/jhonatan-oliveiradev/my-repos">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhonatan-oliveiradev&repo=my-repos&theme=react&bg_color=0D1117" alt="my repos"></a>
-  <a href="https://github.com/jhonatan-oliveiradev/food-commerce">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jhonatan-oliveiradev&repo=food-commerce&theme=react&bg_color=0D1117" alt="food commerce"></a> 
-</p> -->
-<br />  
-<p align="center"><a href="https://github.com/jhonatan-oliveiradev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-MY%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a></p>
-</details>
-
 
 ![Snake animation](https://github.com/jhonatan-oliveiradev/jhonatan-oliveiradev/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/jhonatan-oliveiradev"><img width=100% title="Final" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
