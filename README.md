@@ -1,4 +1,4 @@
-### <p align="center">Hey! I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>. I'm a Front-End developer!
+### <p align="center">I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>, a Front-End developer!
 
 ****
 
