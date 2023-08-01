@@ -6,8 +6,8 @@
 <div>
   <picture>
   <source
-    width="320px"
-    height="80px"
+    width="350px"
+    height="165px"
     srcset="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&theme=synthwave"
     media="(prefers-color-scheme: dark)"
   />
