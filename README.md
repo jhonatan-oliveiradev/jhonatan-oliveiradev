@@ -3,9 +3,10 @@
 ****
 
 
-<picture>
+<div>
+  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&theme=synthwave"
+    srcset="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&theme=synthwave&include_all_commits"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -15,7 +16,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=synthwave)
+</div>
 
 ****
 
