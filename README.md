@@ -3,7 +3,7 @@
 ****
 
 
-<div>
+<div style="display: flex;">
   <picture>
   <source
     height="165px"
