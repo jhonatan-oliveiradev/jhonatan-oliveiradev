@@ -2,11 +2,7 @@
 
 ****
 
-<div align="center"> 
-  <a href="https://github.com/jhonatan-oliveiradev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> &nbsp; &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&langs_count=8&theme=synthwave"/>
-</div>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&hide=contribs,prs)
 
