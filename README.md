@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&langs_count=8&theme=synthwave"/>
 </div>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&hide=contribs,prs)
+
 ****
 
 <div align="center">
