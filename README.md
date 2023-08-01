@@ -3,21 +3,10 @@
 ****
 
 
-<div style="display: flex; flex-direction: row;">
-  <picture>
-  <source
-    height="165px"
-    srcset="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=synthwave)
+<div align="center"> 
+  <a href="https://github.com/jhonatan-oliveiradev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> &nbsp; &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ****
