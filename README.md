@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  #### :earth_africa: Social Networks :earth_americas:
+  #### Social
 [![Gmail](https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg)](mailto:jhonatan.oliveira931002@gmail.com)
 [![LinkedIn](https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg)](https://www.linkedin.com/in/jhonatan-oliveira1693)
 [![Facebook](https://user-images.githubusercontent.com/80191040/185791012-9037acf0-7812-4574-9862-fd9544489f6b.svg)](https://www.facebook.com/eujhonatanoliveira) 
@@ -43,6 +43,6 @@
 
 ****
 
-
+<!--
 ![Snake animation](https://github.com/jhonatan-oliveiradev/jhonatan-oliveiradev/blob/output/github-contribution-grid-snake.svg)
-
+-->
