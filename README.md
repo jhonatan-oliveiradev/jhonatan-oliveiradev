@@ -1,9 +1,8 @@
-### <p align="center">Hello world!<br /> I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>, a Front-End developer!
 
 ****
 
 # 💫 About Me:
-<br><p align="center">Hello world!<br /> I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>, a Front-End developer!
+<br><p align="center">Hello world!<br /> I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>, I'm a Frontend developer, graduated in Systems Analysis and Development and a Software Engineering student.
 
 
 ## 🌐 Socials:
@@ -23,8 +22,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jhonatan-oliveiradev&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</div>
 
 ****
