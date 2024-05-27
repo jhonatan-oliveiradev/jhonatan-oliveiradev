@@ -2,49 +2,29 @@
 
 ****
 
-<div align="center"> 
-  <a href="https://github.com/jhonatan-oliveiradev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> &nbsp; &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&langs_count=8&theme=synthwave"/>
-</div>
-
-****
-
-<div align="center">
-
-#### Social
-[![Gmail](https://user-images.githubusercontent.com/80191040/185791246-a96e7322-3f00-4edf-9ffa-47d7bd002103.svg)](mailto:jhonatan.oliveira931002@gmail.com)
-[![LinkedIn](https://user-images.githubusercontent.com/80191040/185790979-66a36459-a9b6-4ed1-b9eb-94f219f290f1.svg)](https://www.linkedin.com/in/jhonatan-oliveira1693)
-[![Facebook](https://user-images.githubusercontent.com/80191040/185791012-9037acf0-7812-4574-9862-fd9544489f6b.svg)](https://www.facebook.com/eujhonatanoliveira) 
-[![Telegram](https://user-images.githubusercontent.com/80191040/185791041-c0a284f7-73d6-4b18-bfc9-da2eed81f0da.svg)](https://t.me/jhonatanoliveira93)
-[![WhatsApp](https://user-images.githubusercontent.com/80191040/185155424-a5d28c8e-0c0a-4168-8931-fc597f64fe8a.svg)](https://wa.me/+5516996033206) 
-
-</div>
-
-****
-
-<div align="center">
-
-#### 
-
-Tech Stack 
+# 💫 About Me:
+<br><p align="center">Hello world!<br /> I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>, a Front-End developer!
 
 
-[![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
-[![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
-[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
-[![ReactJS](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React_(JavaScript))
-[![ReactJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/Node.js)
-[![ReactJS](https://skills.thijs.gg/icons?i=sass)](https://pt.wikipedia.org/wiki/Sass_(linguagem_de_folhas_de_estilos))
-[![ReactJS](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com)
-[![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
-[![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/Figma)
-[![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jhonataoliveir11) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jhsvmujC) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eujhonatanoliveira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ojhonoliveira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonatan-oliveira1693) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/p3ves) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jhonbaratheon) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=flat-square&logo=Mantine&logoColor=339af0) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat-square&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat-square&logo=zod&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat-square&logo=planetscale&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhonatan-oliveiradev&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jhonatan-oliveiradev&icon=1&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
 ****
-
-<!--
-![Snake animation](https://github.com/jhonatan-oliveiradev/jhonatan-oliveiradev/blob/output/github-contribution-grid-snake.svg)
--->
