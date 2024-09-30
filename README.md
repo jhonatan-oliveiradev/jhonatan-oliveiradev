@@ -59,8 +59,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
