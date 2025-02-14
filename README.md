@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<br><h1 align="center" style="font-size:20px;">Hello world!<br /> I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>, a Frontend developer, graduated in Systems Analysis and Development and a Software Engineering student.</h1>
+<br><h1 align="left" style="font-size:18px;">Hello world!<br /> I'm <a href="https://www.linkedin.com/in/jhonatan-oliveira1693">Jhonatan</a>, a Frontend developer, graduated in Systems Analysis and Development and a Software Engineering student.</h1>
 
 
 # 🌐 Socials:
