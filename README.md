@@ -32,7 +32,7 @@
 
 ---
 
-## ⚡ Tech Stack (fora da caixa)
+## ⚡ Tech Stack  
 
 ### 🧱 Frontend
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat&logo=react&logoColor=%23C20E55)
@@ -57,7 +57,7 @@
 
 ---
 
-## 🚀 Stats (com personalidade)
+## 🚀 Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" height="160"/>
