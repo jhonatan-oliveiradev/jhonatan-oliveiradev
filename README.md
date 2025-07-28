@@ -2,8 +2,8 @@
 
 # 🧠 Jhonatan Oliveira  
 ## <span style="color:#C20E55; font-family:'Dela Gothic One', sans-serif;">Frontend Engineer</span>  
-🎓 Formado em Análise e Desenvolvimento de Sistemas
-📘 Estudante de Engenharia de Software  e Desenvolvimento Full Stack
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+📘 Estudante de Engenharia de Software  e Desenvolvimento Full Stack  
 🌌 Criando marcas em experiências visuais únicas.
 
 </div>
