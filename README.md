@@ -70,5 +70,5 @@
 
 - 🧑‍🎨 Portfólio: [jhonatanoliveira.com](https://www.jhonatanoliveira.com)  
 - 🎨 Behance: [behance.net/ojhonataoliveira](https://www.behance.net/ojhonataoliveira)  
-- 💼 LinkedIn: [linkedin.com/in/jhonatan-oliveira1693](https://www.linkedin.com/in/jhonatan-oliveira1693)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/jhonatan-oliveira1693](https://www.linkedin.com/in/ojhonoliveira/)  
 - 💻 GitHub: [github.com/jhonatan-oliveiradev](https://github.com/jhonatan-oliveiradev)
