@@ -1,10 +1,10 @@
 <div align="center">
 
 # 🧠 Jhonatan Oliveira  
-## <span style="color:#C20E55; font-family:'Dela Gothic One', sans-serif;">Frontend Developer @ NX Studio</span>  
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-📘 Estudante de Engenharia de Software  
-🌌 Criando soluções digitais com design ousado, criativo e fora da caixa
+## <span style="color:#C20E55; font-family:'Dela Gothic One', sans-serif;">Frontend Engineer</span>  
+🎓 Formado em Análise e Desenvolvimento de Sistemas
+📘 Estudante de Engenharia de Software  e Desenvolvimento Full Stack
+🌌 Criando marcas em experiências visuais únicas.
 
 </div>
 
@@ -72,8 +72,3 @@
 - 🎨 Behance: [behance.net/ojhonataoliveira](https://www.behance.net/ojhonataoliveira)  
 - 💼 LinkedIn: [linkedin.com/in/jhonatan-oliveira1693](https://www.linkedin.com/in/jhonatan-oliveira1693)  
 - 💻 GitHub: [github.com/jhonatan-oliveiradev](https://github.com/jhonatan-oliveiradev)
-
----
-
-> 🎨 README em modo escuro com a estética criativa da [NX Studio](https://enex.studio)  
-> 🔥 Rosa #C20E55 • Amarelo #E0F400 • Tipografia ousada • Atitude fora da curva
