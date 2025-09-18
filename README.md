@@ -3,8 +3,8 @@
 # 🧠 Jhonatan Oliveira  
 ## <span style="color:#C20E55; font-family:'Dela Gothic One', sans-serif;">Frontend Engineer</span>  
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-📘 Estudante de Engenharia de Software  e Desenvolvimento Full Stack  
-🌌 Criando marcas em experiências visuais únicas.
+📘 Estudante de Engenharia de Software e Desenvolvimento Full Stack  
+🌌 Transformo marcas em experiências visuais únicas.
 
 </div>
 
@@ -70,5 +70,4 @@
 
 - 🧑‍🎨 Portfólio: [jhonatanoliveira.com](https://www.jhonatanoliveira.com)  
 - 🎨 Behance: [behance.net/ojhonataoliveira](https://www.behance.net/ojhonataoliveira)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/ojhonoliveira](https://www.linkedin.com/in/ojhonoliveira/)  
-- 💻 GitHub: [github.com/jhonatan-oliveiradev](https://github.com/jhonatan-oliveiradev)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ojhonoliveira](https://www.linkedin.com/in/ojhonoliveira/)
