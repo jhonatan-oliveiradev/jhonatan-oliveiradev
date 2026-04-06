@@ -91,8 +91,8 @@ I'm a frontend engineer passionate about building polished digital products that
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://YOUR_VERCEL_DOMAIN/api?username=jhonatan-oliveiradev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
-  <img height="170" src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <img height="170" src="https://stats.jhonatanoliveira.com/api?username=jhonatan-oliveiradev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
+  <img height="170" src="https://stats.jhonatanoliveira.com/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 </div>
 
 ---
