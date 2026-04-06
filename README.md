@@ -2,10 +2,10 @@
 
 # Jhonatan Oliveira
 
-### Frontend Engineer · UI-focused Developer · Digital Experience Builder
+### Frontend Engineer · Design-driven Developer · Building refined digital experiences
 
-I craft modern interfaces with strong visual quality, clean implementation,  
-and a product mindset focused on performance, usability, and memorable experiences.
+I create polished interfaces and modern digital products where  
+**visual identity, interaction, and code** work together with intention.
 
 <p>
   <a href="https://www.linkedin.com/in/ojhonoliveira" target="_blank">
@@ -17,7 +17,7 @@ and a product mindset focused on performance, usability, and memorable experienc
   <a href="https://www.instagram.com/ojhonoliveira" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://codepen.io/jhonbaratheon" target="_blank">
+  <a href="https://codepen.io/ojhonoliveira" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
   <a href="https://twitch.tv/p3ves" target="_blank">
@@ -29,14 +29,16 @@ and a product mindset focused on performance, usability, and memorable experienc
 
 ---
 
-## About Me
+## About
 
-I'm a frontend engineer passionate about building polished digital products that connect **design, motion, and code**.
+I'm a developer focused on crafting digital experiences with a strong balance between **aesthetics, functionality, and structure**.
+
+My work lives at the intersection of **frontend engineering**, **visual design**, and **product thinking** — building interfaces that not only look refined, but also feel consistent, performant, and purposeful.
 
 - Graduate in **Systems Analysis and Development**
 - Software Engineering and Full Stack Development student
-- Focused on **frontend architecture**, **UI engineering**, and **high-quality visual experiences**
-- Interested in products where **branding, interaction, and performance** matter equally
+- Focused on **frontend architecture**, **UI engineering**, and **brand-oriented product experiences**
+- Expanding deeper into **backend systems**, data modeling, and full-stack product development
 
 ---
 
@@ -50,6 +52,14 @@ I'm a frontend engineer passionate about building polished digital products that
   <img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat&logo=tailwind-css&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Radix_UI-111111?style=flat&logo=radixui&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-111111?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=47A248" />
 </p>
 
 ### UI / Design
@@ -73,14 +83,14 @@ I'm a frontend engineer passionate about building polished digital products that
 
 ## What I Build
 
-- Scalable frontend interfaces
-- Design-driven web experiences
-- Brand-focused digital products
-- Interactive and visually refined user journeys
+- Modern frontend interfaces with strong visual consistency
+- Design-led websites and digital experiences
+- Full-stack products with thoughtful structure and clean implementation
+- Interfaces where motion, branding, and usability feel naturally connected
 
 ---
 
-## Featured Links
+## Selected Links
 
 - **Portfolio** — [jhonatanoliveira.com](https://www.jhonatanoliveira.com)
 - **Behance** — [behance.net/ojhonataoliveira](https://www.behance.net/ojhonataoliveira)
@@ -99,6 +109,6 @@ I'm a frontend engineer passionate about building polished digital products that
 
 <div align="center">
 
-### Building thoughtful interfaces with visual precision
+### Design, code, and digital presence — shaped with intention
 
 </div>
