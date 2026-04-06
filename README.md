@@ -73,8 +73,10 @@ Passionate about turning ideas, brands, and products into memorable digital expe
 
 <div align="center">
 
-<img height="170" src="https://YOUR-STATS-DOMAIN/api?username=jhonatan-oliveiradev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://YOUR-STATS-DOMAIN/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+
+</div>
 
 </div>
 
