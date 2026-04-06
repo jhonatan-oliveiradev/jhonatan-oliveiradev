@@ -2,10 +2,10 @@
 
 # Jhonatan Oliveira
 
-### Frontend Engineer
+### Frontend Engineer · UI-focused Developer · Digital Experience Builder
 
-I design and build modern, high-quality interfaces focused on performance, usability, and visual impact.  
-Passionate about turning ideas, brands, and products into memorable digital experiences.
+I craft modern interfaces with strong visual quality, clean implementation,  
+and a product mindset focused on performance, usability, and memorable experiences.
 
 <p>
   <a href="https://www.linkedin.com/in/ojhonoliveira" target="_blank">
@@ -31,14 +31,16 @@ Passionate about turning ideas, brands, and products into memorable digital expe
 
 ## About Me
 
+I'm a frontend engineer passionate about building polished digital products that connect **design, motion, and code**.
+
 - Graduate in **Systems Analysis and Development**
 - Software Engineering and Full Stack Development student
-- Specialized in **frontend development**, **UI engineering**, and **visual experiences**
-- Focused on building products that combine **design quality**, **clean code**, and **great usability**
+- Focused on **frontend architecture**, **UI engineering**, and **high-quality visual experiences**
+- Interested in products where **branding, interaction, and performance** matter equally
 
 ---
 
-## Tech Stack
+## Core Stack
 
 ### Frontend
 <p>
@@ -69,38 +71,34 @@ Passionate about turning ideas, brands, and products into memorable digital expe
 
 ---
 
-## GitHub Stats
+## What I Build
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhonatan-oliveiradev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-</div>
-
-</div>
-
----
-
-## What I Care About
-
-- Building polished and accessible interfaces
-- Creating scalable frontend architectures
-- Translating visual identity into real product experience
-- Combining motion, aesthetics, and performance
+- Scalable frontend interfaces
+- Design-driven web experiences
+- Brand-focused digital products
+- Interactive and visually refined user journeys
 
 ---
 
 ## Featured Links
 
-- **Portfolio:** [jhonatanoliveira.com](https://www.jhonatanoliveira.com)
-- **Behance:** [behance.net/ojhonataoliveira](https://www.behance.net/ojhonataoliveira)
-- **LinkedIn:** [linkedin.com/in/ojhonoliveira](https://www.linkedin.com/in/ojhonoliveira/)
+- **Portfolio** — [jhonatanoliveira.com](https://www.jhonatanoliveira.com)
+- **Behance** — [behance.net/ojhonataoliveira](https://www.behance.net/ojhonataoliveira)
+- **LinkedIn** — [linkedin.com/in/ojhonoliveira](https://www.linkedin.com/in/ojhonoliveira/)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://YOUR_VERCEL_DOMAIN/api?username=jhonatan-oliveiradev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
+  <img height="170" src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=jhonatan-oliveiradev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile
+### Building thoughtful interfaces with visual precision
 
 </div>
